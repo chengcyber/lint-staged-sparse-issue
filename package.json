@@ -1,0 +1,23 @@
+{
+  "name": "lint-staged-sparse-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengcyber/lint-staged-sparse-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengcyber/lint-staged-sparse-issue/issues"
+  },
+  "homepage": "https://github.com/chengcyber/lint-staged-sparse-issue#readme",
+  "devDependencies": {
+    "lint-staged": "^15.2.1"
+  }
+}
