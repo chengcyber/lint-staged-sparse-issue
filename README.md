@@ -4,6 +4,8 @@ This is a repo for reporting compatibility issue in `lint-staged` with git spars
 
 # Step to reproduce the issue
 
+NOTE: make sure the git version supports "git sparse checkout" and "--sparse" parameter in "git clone". The git version in my end is 2.43.0. I believe >=2.25.0 should be fine.
+
 ```sh
 # clone this repo with git sparse feature
 git clone --sparse git@github.com:chengcyber/lint-staged-sparse-issue.git
